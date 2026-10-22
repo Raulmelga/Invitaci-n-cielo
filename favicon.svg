@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Puertas Abiertas al Cielo">
+  <rect width="32" height="32" rx="7" fill="#06101C"/>
+  <rect x="12" y="5" width="8" height="18" fill="#F6EDD8"/>
+  <rect x="4" y="5" width="8" height="18" rx="1.2" fill="#E6C15A"/>
+  <rect x="20" y="5" width="8" height="18" rx="1.2" fill="#E6C15A"/>
+  <rect x="6" y="23" width="20" height="2.6" rx="0.6" fill="#E6C15A"/>
+  <rect x="9" y="26.4" width="14" height="2.4" rx="0.6" fill="#F6EDD8"/>
+</svg>
