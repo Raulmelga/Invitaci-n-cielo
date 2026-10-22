@@ -32,11 +32,11 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Build
-        run: npx nitro build
+        run: npm run build -- --spa
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist
+          path: .output/public
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
